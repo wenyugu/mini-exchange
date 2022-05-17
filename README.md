@@ -1,12 +1,14 @@
-# group_03_project
+# Mini Exchange
+An Order Matching Engine, Gateway, and Tickerplant in Java SE 11
 
-This is the base project for Group 03 for IE498 HFT in Spring 2022.
+![demo](orderbook-realtime.gif)
 
 # Teammates
-Daniel Gu - wenyugu2@illinois.edu (Team Leader)
+Daniel Gu (Team Leader)
 
-Anthony Yu - siyiyu2@illinois.edu
+Yudu Chen
 
-Yudu Chen - yuduc2@illinois.edu
+Jeff Shin
 
-Jeff Shin - wonjong2@illinois.edu
+# Final Report
+[Final Report](FinalReport.md)
